@@ -1,24 +1,33 @@
 # Advanced BMI Calculator
 
+## Screenshots
+
+### GUI
+![GUI](gui.png)
+
+### Graph
+![Graph](graph.png)
+
+---
+
 ## Features
-- GUI built with Tkinter
+- GUI built using Tkinter
 - BMI Calculation and categorization
-- Input validation
-- Multi-user data storage (CSV)
+- Input validation and error handling
+- Multi-user data storage using CSV
 - Historical BMI tracking
 - Graph visualization using matplotlib
 
+---
+
 ## Run Project
 
-Create virtual environment:
-
+### Create virtual environment
 python -m venv venv
 venv\Scripts\activate
 
-Install dependencies:
-
+### Install dependencies
 pip install -r requirements.txt
 
-Run:
-
+### Run application
 python app.py
