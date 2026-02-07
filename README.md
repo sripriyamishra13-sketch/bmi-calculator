@@ -93,4 +93,3 @@ python app.py
 ## Resume Description
 
 Developed an Advanced BMI Calculator with a graphical interface using Python and Tkinter. Implemented input validation, multi-user data persistence, and historical trend visualization using Matplotlib. Designed modular code and version-controlled the project using Git and GitHub.
-
